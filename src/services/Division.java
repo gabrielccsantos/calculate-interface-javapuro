@@ -1,6 +1,6 @@
 package services;
 
-import Exceptions.Demon0Exception;
+import exception.Demon0Exception;
 
 public class Division implements CalculateInterface{
 
